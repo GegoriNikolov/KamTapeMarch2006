@@ -1,0 +1,298 @@
+body {
+  font-family: Arial, sans-serif;
+  width: 316px;
+  height: 485px;
+  margin-top: 0px;
+}
+
+.smallHeaderLinks {
+  color: #03C;
+  text-decoration: underline;
+}
+
+.smallBodyLinks {
+  color: #03C;
+  text-decoration: underline;
+}
+
+.smallChannelMastheadTable {
+  width: 300px;
+  padding-top: 4px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+  background-color: #FFFFFF;
+  font-size: 9px;
+  text-align: left;
+}
+
+.smallTitles {
+  color: #FFFFFF;
+  font-size: 9px;
+}
+
+.titleRightTables {
+  width: 178px;
+  background-color: #666666;
+  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;  
+}
+
+.titleLeftTables {
+  width: 100px;
+  background-color: #666666;
+  padding-left: 5px;
+  padding-top: 1px;
+  padding-bottom: 1px;  
+}
+
+#smallHighlightBoxes {
+  background-color: #e6e6e6;
+  border: 1px solid #666666;
+  font-size: 9px;
+  color: #666666;
+  margin-bottom: 10px;
+}
+
+
+.smallSubscribeBox {
+  width: 130px;
+  border: 1px dashed;
+}
+
+.smallProfileBox {
+  width: 98px;
+  padding-left: 5px;
+}
+
+
+#smallBulletinBox {
+  width: 103px;
+  border-right: none;
+  border-bottom: none;
+}
+
+.smallBulletinTable {
+  width: 103px;
+  text-align: center;
+  border-collapse: collapse;
+}
+
+tr.smallBulletinTable th {
+  border-bottom: 1px solid;
+  border-color: #666666;
+}
+
+tr.smallBulletinTable td {
+  border-bottom: 1px solid;
+  border-color: #666666;
+  border-right: 1px solid;
+}
+
+tr.bulletinTableNB td {
+  border-bottom: none;
+  border-color: #666666;
+}
+
+
+#smallBasicBoxes {
+  background-color: #FFFFFF;
+  border: 1px solid #666666;
+  font-size: 9px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.smallConnectBox {
+  width: 98px;
+  padding-left: 5px;
+}
+
+.smallChannelsBox {
+  width: 98px;
+  padding-left: 5px;
+}
+
+.smallScrollersBox {
+  width: 171px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.smallVlogTitles {
+  color: #666666;
+}
+
+.smallVlogText {
+  color: #000000;
+}
+
+.smallVlogBox {
+  width: 171px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+#smallVlogBoxes {
+  background-color: #FFFFFF;
+  border: 1px solid #FFFFFF;
+  font-size: 9px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.smallChannelsDetailsBox {
+  width: 178px;
+  padding-left: 3px;
+}
+
+
+#smallCommentsBox {
+  width: 103px;
+  border-right: none;
+  border-bottom: none;
+}
+
+.smallCommentsTable {
+  width: 103px;
+  text-align: left;
+  border-collapse: collapse;
+}
+
+tr.smallCommentsTable th {
+  border-bottom: 1px solid;
+  border-color: #666666;
+}
+
+
+tr.smallCommentsTableNB td {
+  border-bottom: none;
+  border-color: #666666;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+}
+
+
+#smallBasicBoxes {
+  background-color: #FFFFFF; 
+  border: 1px solid #666666;
+  font-size: 9px;
+  color: #000000;
+  margin-bottom: 10px;
+}
+
+.smallImgBorder {
+  border: 1px solid #666666;
+}
+
+.smallScrollerImgBorder {
+  border: 1px solid #FFFFFF;
+  margin-left: 1px;
+  margin-right: 1px;
+}
+
+.smallLabels {
+  color: #000;
+}
+
+
+#hide_profile_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_rating_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_connect_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_channels_box_left {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_subscribers_box_left {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_contest_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_bulletins_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_comments_box_left {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_videos_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 183px;
+}
+
+#hide_video_log_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_favorites_box {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 100%;
+}
+
+#hide_channels_box_right {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 183px;
+}
+
+#hide_subscribers_box_right {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 183px;
+}
+
+#hide_comments_box_right {
+  opacity : .95;
+  -moz-opacity : .95;
+  filter : alpha(opacity=95);
+  width: 183px;
+}

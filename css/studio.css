@@ -1,0 +1,56 @@
+h2.blog {
+	margin-top: 18px;
+	background-color: #BCE;
+	padding: 3px;
+	}
+
+li {
+	margin-bottom: 5px;
+	}
+	
+ul.mainpage {
+	margin-left: 18px;
+	margin-bottom: 18px;
+	}
+
+ul.sidebar {
+	margin-left: 0px;
+	padding-left: 12px;
+	}
+
+
+
+/* New classes */
+.subTitle {
+	font-size: 13px;
+	font-weight: bold;
+	margin-top: 15px;
+	margin-bottom: 20px;
+	text-align: center;
+	padding-left: 75px;
+	padding-right: 75px;
+	}
+	
+.floatingSidebar {
+	width: 175px;
+	float: right;
+	margin-left: 25px;
+	margin-bottom: 25px;
+	}
+	
+.floatingAd300 {
+	width: 305px;
+	float: right;
+	margin-left: 20px;
+	margin-bottom: 25px;
+	}
+	
+.blogDate {
+	font-size: 13px;
+	font-style: italic;
+	}
+	
+.blogTitle {
+	text-decoration: none;
+	color: #000;
+	}
